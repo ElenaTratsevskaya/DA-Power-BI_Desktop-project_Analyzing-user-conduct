@@ -2,8 +2,7 @@
 
 # Analyzing user conduct by channel and geo
 
-**ФОРМАЛИЗАЦИЯ ЗАДАЧИ**
-
+**ФОРМАЛИЗАЦИЯ ЗАДАЧИ**<br>
 Разработать дэшборды со следующими показателями:
 
 - Сумма выручки (итого + структура)
@@ -14,6 +13,13 @@
 
 <h1>Проект создан в POWER BI Desktop и представлен слайдами страниц отчёта</h1>
 
-![Dark(1)](https://github.com/ElenaTratsevskaya/DA-Power-BI_Desktop-project_Analyzing-user-conduct/assets/110056199/44171aae-5064-4990-960c-c518c3f1da3b)
+Добавлено: 
+- Фuльтр по user_date_registration
+- Фильтр по utm_medium
+- Распределение пользователей по странам регистрации
+- Распределение пользователей по показателю user_cuntry
+- Распределение пользователей по показателю utm_medium
 
-![Dark(2)](https://github.com/ElenaTratsevskaya/DA-Power-BI_Desktop-project_Analyzing-user-conduct/assets/110056199/e27aa8a6-7f7c-4f69-82b4-bab8b115ba84)
+![Dark(1-2)](https://github.com/ElenaTratsevskaya/DA-Power-BI_Desktop-project_Analyzing-user-conduct/assets/110056199/c19c954f-8f98-44da-a3e3-ae49fd87fd77)
+
+![Dark(2-3)](https://github.com/ElenaTratsevskaya/DA-Power-BI_Desktop-project_Analyzing-user-conduct/assets/110056199/9d162a67-d024-453e-814b-3a0c410802e6)
